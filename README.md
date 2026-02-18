@@ -1,1 +1,1 @@
-This is a repo on all the tasks i did during my intership(SIWES)
+This is a repository that contains the tasks I did during my internship (SIWES)
